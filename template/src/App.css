@@ -3,4 +3,19 @@
   text-align: center;
 }
 
+.header{
+  background-color: lightgrey;
+  height: 20vh;
+}
 
+.logo{
+  height: 80%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.copywrite {
+  font-weight: 600;
+} 
